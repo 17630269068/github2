@@ -17,6 +17,7 @@ public class Github2ApplicationTests {
 
     @Test
     public void test1(){
+        Integer coco = 1314;
         System.out.println("hello");
     }
 
