@@ -14,4 +14,9 @@ public class Github2ApplicationTests {
         System.out.println("coco");
     }
 
+    @Test
+    public void test1(){
+        System.out.println("hello");
+    }
+
 }
