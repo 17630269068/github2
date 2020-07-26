@@ -12,6 +12,7 @@ public class Github2ApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("coco");
+        System.out.println("hello");
     }
 
     @Test
