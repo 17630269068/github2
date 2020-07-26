@@ -11,6 +11,7 @@ public class Github2ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("coco");
     }
 
 }
